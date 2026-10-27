@@ -46,10 +46,6 @@ Para el desarrollo de **SoyPilo**, el equipo ha seleccionado una arquitectura de
 
 ## 👨‍💻 Autores y Créditos
 
-Proyecto formativo del **SENA - Servicio Nacional de Aprendizaje** (CIES - Ocaña, Norte de Santander).
-
-* **Ficha:** 3233929 (Levantamiento de Requisitos)
-
 * **Equipo de Desarrollo:**
 
   * Juan Jose Boada Salazar
@@ -58,4 +54,3 @@ Proyecto formativo del **SENA - Servicio Nacional de Aprendizaje** (CIES - Ocañ
 
   * Darin Steven Quintero
 
-* **Instructor:** Azucena Atuesta
