@@ -9,12 +9,8 @@ El sistema está diseñado para ofrecer una experiencia digital segura, accesibl
 La plataforma organiza el acceso y las responsabilidades en cuatro perfiles principales:
 
 1. **Estudiante:** Permite consultar cursos, revisar calificaciones en tiempo real, ver promedios, subir tareas y descargar materiales de estudio.
-
-2. **Padre / Acudiente:** Brinda la capacidad de realizar un seguimiento cercano al rendimiento académico, historial de asistencia y boletines de sus hijos.
-
-3. **Docente:** Facilita la toma de asistencia diaria con fecha y hora automática, la carga y calificación de tareas, la publicación de materiales de apoyo y la generación de reportes.
-
-4. **Directivo / Administrador:** Otorga el control total del sistema para gestionar usuarios, crear cursos, asignar materias a profesores, matricular estudiantes y auditar la plataforma.
+2. **Docente:** Facilita la toma de asistencia diaria con fecha y hora automática, la carga y calificación de tareas, la publicación de materiales de apoyo y la generación de reportes.
+3. **Directivo / Administrador:** Otorga el control total del sistema para gestionar usuarios, crear cursos, asignar materias a profesores, matricular estudiantes y auditar la plataforma.
 
 ## 💻 Lenguajes y Tecnologías del Proyecto
 
@@ -24,9 +20,9 @@ Para el desarrollo de **SoyPilo**, el equipo ha seleccionado una arquitectura de
 
 * **JavaScript (ES6+):** Lenguaje principal para la lógica de la interfaz y la interactividad del usuario.
 
-* **ReactJS (con Vite):** Librería basada en componentes reutilizables que permite construir dashboards dinámicos y responsivos que se adaptan automáticamente a cualquier pantalla (celulares, tablets y computadores).
+* **ReactJS :** Librería basada en componentes reutilizables que permite construir dashboards dinámicos y responsivos que se adaptan automáticamente a cualquier pantalla (celulares, tablets y computadores).
 
-* **HTML5 y CSS3 / Tailwind CSS:** Estructura y diseño visual limpio, intuitivo y uniforme en todas las secciones de la plataforma.
+* **HTML5 y CSS3 / Boostrap CSS:** Estructura y diseño visual limpio, intuitivo y uniforme en todas las secciones de la plataforma.
 
 ### 2. Backend (Servidor y Lógica de Negocio)
 
@@ -50,7 +46,7 @@ Para el desarrollo de **SoyPilo**, el equipo ha seleccionado una arquitectura de
 
   * Juan Jose Boada Salazar
 
-  * Miguel Armando Quintero
+  * Miguel Armando Quintero Quintero
 
   * Darin Steven Quintero
 
